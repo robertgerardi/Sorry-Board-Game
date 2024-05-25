@@ -1,0 +1,3788 @@
+OUTPUT
+
+C:\Users\Rob\Desktop\309-Final-Project-main\cmake-build-debug\309_Final_Project.exe
+Welcome to Sorry!
+This game will be played with 4 players
+Would you like to particpate? Y or N
+N
+The Sorry! Board has been created
+The deck has been shuffled!
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 5 card.
+A 5 cannot move a piece out of start. RED has lost their turn.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 2 card.
+GREEN has chosen piece 4. It has been moved out of the starting location.
+GREEN has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at location 49 and is 58 space(s) away from the safety zone.
+
+GREEN has drawn the 13 card.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at location 49 and is 58 space(s) away from the safety zone.
+
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+YELLOW's Piece 2 has been chosen to move out of start and has been swapped with green's Piece 4.
+green's Piece 4 has been sent home.
+Piece 1 is at Start.
+Piece 2 is at location 49 and is 43 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 8 card.
+A 8 cannot move a piece out of start. BLUE has lost their turn.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the 11 card.
+A 11 cannot move a piece out of start. RED has lost their turn.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 2 card.
+GREEN has chosen piece 3. It has been moved out of the starting location.
+yellow's pawn has been sent back to home!
+GREEN has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 1 card.
+Turn is lost.
+
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+YELLOW has drawn the 1 card.
+YELLOW has chosen piece 2. It has been moved out of the starting location.
+YELLOW's pawn has moved 1 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 35 and is 57 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the 11 card.
+A 11 cannot move a piece out of start. BLUE has lost their turn.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 12 card.
+A 12 cannot move a piece out of start. RED has lost their turn.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 8 card.
+A 8 cannot move a piece out of start. GREEN has lost their turn.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at location 35 and is 57 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+YELLOW has drawn the 5 card.
+YELLOW's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 5 card.
+A 5 cannot move a piece out of start. BLUE has lost their turn.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 7 card.
+A 7 cannot move a piece out of start. RED has lost their turn.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the SORRY card.
+GREEN's Piece 2 has been chosen to move out of start and has been swapped with yellow's Piece 2.
+yellow's Piece 2 has been sent home.
+Piece 1 is at Start.
+Piece 2 is at location 40 and is 7 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+A 11 cannot move a piece out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 1 card.
+BLUE has chosen piece 1. It has been moved out of the starting location.
+BLUE's pawn has moved 1 space(s).
+
+Piece 1 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 4 card.
+A 4 cannot move a piece out of start. RED has lost their turn.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is at location 40 and is 7 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 3 card.
+GREEN's pawn has moved 3 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 43 and is 4 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+YELLOW has drawn the 12 card.
+A 12 cannot move a piece out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 4 card.
+Your pawn is in the safety zone and is 4 spaces away from home.
+
+Piece 1 is 4 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 8 card.
+A 8 cannot move a piece out of start. RED has lost their turn.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is at location 43 and is 4 space(s) away from the safety zone.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 7 card.
+Your pawn is in the safety zone and is 2 spaces away from home.
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+YELLOW has drawn the 10 card.
+A 10 cannot move a piece out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 4 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is 4 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 2 card.
+RED has chosen piece 1. It has been moved out of the starting location.
+RED has earned another turn!
+
+Piece 1 is at location 4 and is 58 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 10 card.
+RED's pawn has moved 10 space(s).
+
+Piece 1 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+YELLOW has drawn the 12 card.
+A 12 cannot move a piece out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 4 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 3 card.
+Your pawn is in the safety zone and is 1 spaces away from home.
+
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 3 card.
+RED's pawn has moved 3 space(s).
+
+Piece 1 is at location 17 and is 45 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+YELLOW has drawn the 7 card.
+A 7 cannot move a piece out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at location 17 and is 45 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 1 card.
+RED's pawn has moved 1 space(s).
+
+Piece 1 is at location 18 and is 44 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+YELLOW has drawn the 1 card.
+YELLOW has chosen piece 1. It has been moved out of the starting location.
+YELLOW's pawn has moved 1 space(s).
+
+Piece 1 is at location 35 and is 57 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at location 18 and is 44 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 1 card.
+RED's pawn has moved 1 space(s).
+
+Piece 1 is at location 19 and is 43 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the SORRY card.
+GREEN's Piece 3 has been chosen to move out of start and has been swapped with red's Piece 1.
+red's Piece 1 has been sent home.
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 19 and is 28 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+YELLOW's Piece 3 has been chosen to move out of start and has been swapped with green's Piece 3.
+green's Piece 3 has been sent home.
+Piece 1 is at location 35 and is 57 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at location 19 and is 13 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 12 card.
+A 12 cannot move a piece out of start. RED has lost their turn.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 35 and is 57 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at location 19 and is 13 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+YELLOW has drawn the 5 card.
+YELLOW's pawn has moved 5 space(s).
+
+Piece 1 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at location 19 and is 13 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+RED has drawn the 2 card.
+RED has chosen piece 3. It has been moved out of the starting location.
+RED has earned another turn!
+
+The deck has been shuffled!
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at location 4 and is 58 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+RED has drawn the 4 card.
+Your pawn is in the safety zone and is 3 spaces away from home.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is 3 space(s) away from Home.
+Piece 4 is at Start.
+
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+The deck has been shuffled!
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+YELLOW's pawn has moved 11 space(s).
+Piece 1 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is 3 space(s) away from Home.
+Piece 4 is at Start.
+
+RED has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is 3 space(s) away from Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 1 card.
+Turn is lost.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+YELLOW has drawn the 2 card.
+YELLOW has chosen piece 2. It has been moved out of the starting location.
+YELLOW has earned another turn!
+
+Piece 1 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+YELLOW has drawn the 11 card.
+
+Piece 1 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is 3 space(s) away from Home.
+Piece 4 is at Start.
+
+RED has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is 3 space(s) away from Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+YELLOW has drawn the 3 card.
+YELLOW's pawn has moved 3 space(s).
+
+Piece 1 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is 3 space(s) away from Home.
+Piece 4 is at Start.
+
+RED has drawn the 3 card.
+You have moved pawn 3 into your home. Congrats!
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+YELLOW's pawn has moved 11 space(s).
+Piece 1 is at location 51 and is 41 space(s) away from the safety zone.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is 1 space(s) away from Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 1 card.
+You have moved pawn 1 into your home. Congrats!
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+RED has drawn the 8 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 51 and is 41 space(s) away from the safety zone.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+YELLOW has drawn the 5 card.
+YELLOW's pawn has moved 5 space(s).
+
+Piece 1 is at location 56 and is 36 space(s) away from the safety zone.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 12 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+RED has drawn the 1 card.
+RED has chosen piece 2. It has been moved out of the starting location.
+RED's pawn has moved 1 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 5 and is 57 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 56 and is 36 space(s) away from the safety zone.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+YELLOW has drawn the 10 card.
+YELLOW's pawn has moved 10 space(s).
+
+Piece 1 is at location 6 and is 26 space(s) away from the safety zone.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+BLUE has drawn the 1 card.
+BLUE has chosen piece 3. It has been moved out of the starting location.
+BLUE's pawn has moved 1 space(s).
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the SORRY card.
+RED's Piece 4 has been chosen to move out of start and has been swapped with yellow's Piece 1.
+yellow's Piece 1 has been sent home.
+Piece 1 is at Start.
+Piece 2 is at location 5 and is 57 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 6 and is 56 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at location 30 and is 2 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+YELLOW has drawn the 7 card.
+You have moved pawn 3 into your home. Congrats!
+
+Piece 1 is at Start.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the SORRY card.
+BLUE's Piece 2 has been chosen to move out of start and has been swapped with red's Piece 2.
+red's Piece 2 has been sent home.
+Piece 1 is at Home.
+Piece 2 is at location 5 and is 12 space(s) away from the safety zone.
+Piece 3 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 6 and is 56 space(s) away from the safety zone.
+
+RED has drawn the 5 card.
+RED's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 11 and is 51 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at location 37 and is 55 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+YELLOW has drawn the 3 card.
+YELLOW's pawn has moved 3 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 40 and is 52 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at location 5 and is 12 space(s) away from the safety zone.
+Piece 3 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+BLUE has drawn the 2 card.
+BLUE's pawn has moved 2 space(s).
+BLUE has earned another turn!
+
+Piece 1 is at Home.
+Piece 2 is at location 7 and is 10 space(s) away from the safety zone.
+Piece 3 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+BLUE has drawn the 4 card.
+Your pawn is in the safety zone and is 4 spaces away from home.
+
+Piece 1 is at Home.
+Piece 2 is at location 7 and is 10 space(s) away from the safety zone.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at Start.
+
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 11 and is 51 space(s) away from the safety zone.
+
+RED has drawn the 4 card.
+BLUE's pawn has been sent back to home!
+RED's pawn has moved -4 spaces
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 7 and is 55 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+YELLOW's pawn has moved 11 space(s).
+Piece 1 is at Start.
+Piece 2 is at location 51 and is 41 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at Start.
+
+BLUE has drawn the 2 card.
+BLUE has chosen piece 4. It has been moved out of the starting location.
+BLUE has earned another turn!
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at location 19 and is 58 space(s) away from the safety zone.
+
+BLUE has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at location 19 and is 58 space(s) away from the safety zone.
+
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 7 and is 55 space(s) away from the safety zone.
+
+RED has drawn the 7 card.
+RED's pawn has moved 7 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 14 and is 48 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the SORRY card.
+GREEN's Piece 3 has been chosen to move out of start and has been swapped with red's Piece 4.
+red's Piece 4 has been sent home.
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at location 51 and is 41 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+YELLOW has drawn the 10 card.
+YELLOW's pawn has moved 10 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 1 and is 31 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at location 19 and is 58 space(s) away from the safety zone.
+
+BLUE has drawn the 2 card.
+Turn is lost.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+RED has drawn the 8 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the SORRY card.
+GREEN's Piece 4 has been chosen to move out of start and has been swapped with yellow's Piece 2.
+yellow's Piece 2 has been sent home.
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at location 1 and is 46 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+YELLOW has drawn the 8 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at location 19 and is 58 space(s) away from the safety zone.
+
+BLUE has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at location 19 and is 58 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+RED has drawn the 10 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at location 1 and is 46 space(s) away from the safety zone.
+
+GREEN has drawn the 1 card.
+Turn is lost.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+The deck has been shuffled!
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+YELLOW has drawn the 1 card.
+YELLOW has chosen piece 4. It has been moved out of the starting location.
+YELLOW's pawn has moved 1 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is at location 19 and is 58 space(s) away from the safety zone.
+
+BLUE has drawn the 4 card.
+Your pawn is in the safety zone and is 3 spaces away from home.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+RED has drawn the 12 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at location 1 and is 46 space(s) away from the safety zone.
+
+GREEN has drawn the 7 card.
+GREEN's pawn has moved 7 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at location 8 and is 39 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+YELLOW has drawn the 2 card.
+YELLOW has chosen piece 1. It has been moved out of the starting location.
+YELLOW has earned another turn!
+
+Piece 1 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+YELLOW has drawn the 2 card.
+Turn is lost.
+
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 4 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+BLUE has drawn the 2 card.
+Your pawn is in the safety zone and is 2 spaces away from home.
+BLUE has earned another turn!
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+BLUE has drawn the 1 card.
+ That space is already occupied. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Start.
+
+RED has drawn the 1 card.
+RED has chosen piece 4. It has been moved out of the starting location.
+RED's pawn has moved 1 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 5 and is 57 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the 11 card.
+GREEN's pawn has moved 11 space(s).
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at location 19 and is 28 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+YELLOW has drawn the 8 card.
+YELLOW's pawn has moved 8 space(s).
+
+Piece 1 is at location 42 and is 50 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+BLUE has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 5 and is 57 space(s) away from the safety zone.
+
+RED has drawn the 12 card.
+RED's pawn has moved 12 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 17 and is 45 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at location 19 and is 28 space(s) away from the safety zone.
+
+GREEN has drawn the 5 card.
+GREEN's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 4 is at location 24 and is 23 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 42 and is 50 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+YELLOW has drawn the 10 card.
+YELLOW's pawn has moved 10 space(s).
+
+Piece 1 is at location 52 and is 40 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+BLUE has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the SORRY card.
+RED's Piece 2 has been chosen to move out of start and has been swapped with green's Piece 3.
+green's Piece 3 has been sent home.
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 17 and is 45 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 24 and is 23 space(s) away from the safety zone.
+
+GREEN has drawn the 10 card.
+GREEN's pawn has moved 10 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 34 and is 13 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 52 and is 40 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 35 and is 57 space(s) away from the safety zone.
+
+YELLOW has drawn the 4 card.
+Your pawn is in the safety zone and is 4 spaces away from home.
+
+Piece 1 is at location 52 and is 40 space(s) away from the safety zone.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is 3 space(s) away from Home.
+
+BLUE has drawn the 3 card.
+You have moved pawn 4 into your home. Congrats!
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the SORRY card.
+RED's Piece 1 has been chosen to move out of start and has been swapped with green's Piece 4.
+green's Piece 4 has been sent home.
+Piece 1 is at location 34 and is 28 space(s) away from the safety zone.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 17 and is 45 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+YELLOW's Piece 2 has been chosen to move out of start and has been swapped with red's Piece 1.
+red's Piece 1 has been sent home.
+Piece 1 is at location 52 and is 40 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 2 space(s) away from Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 1 card.
+Your pawn is in the safety zone and is 1 spaces away from home.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 1 space(s) away from Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 17 and is 45 space(s) away from the safety zone.
+
+RED has drawn the 5 card.
+RED's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 22 and is 40 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 52 and is 40 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+YELLOW has drawn the 3 card.
+YELLOW's pawn has moved 3 space(s).
+
+Piece 1 is at location 55 and is 37 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 1 space(s) away from Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 2 card.
+Too far of a move. You lose your turn
+BLUE has earned another turn!
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 1 space(s) away from Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 1 space(s) away from Home.
+Piece 4 is at Home.
+
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 22 and is 40 space(s) away from the safety zone.
+
+RED has drawn the 10 card.
+RED's pawn has moved 10 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 32 and is 30 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 55 and is 37 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+YELLOW has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 55 and is 37 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 1 space(s) away from Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 1 space(s) away from Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 32 and is 30 space(s) away from the safety zone.
+
+RED has drawn the 12 card.
+RED's pawn has moved 12 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 44 and is 18 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the SORRY card.
+GREEN's Piece 1 has been chosen to move out of start and has been swapped with red's Piece 2.
+red's Piece 2 has been sent home.
+Piece 1 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 55 and is 37 space(s) away from the safety zone.
+Piece 2 is at location 34 and is 58 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+YELLOW has drawn the 4 card.
+Your pawn is in the safety zone and is 3 spaces away from home.
+
+Piece 1 is at location 55 and is 37 space(s) away from the safety zone.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is 1 space(s) away from Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 1 card.
+You have moved pawn 3 into your home. Congrats!
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the 11 card.
+YELLOW's pawn has been sent back to home!
+RED's pawn has moved 11 spaces
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 55 and is 7 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 14 and is 33 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 4 card.
+GREEN's pawn has moved -4 space(s).
+
+Piece 1 is at location 10 and is 37 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+YELLOW has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 8 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at location 55 and is 7 space(s) away from the safety zone.
+
+RED has drawn the 1 card.
+RED has chosen piece 2. It has been moved out of the starting location.
+RED's pawn has moved 1 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 5 and is 57 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 55 and is 7 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 10 and is 37 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 3 card.
+GREEN's pawn has moved 3 space(s).
+
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+YELLOW has drawn the 2 card.
+Your pawn is in the safety zone and is 1 spaces away from home.
+YELLOW has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+YELLOW has drawn the 3 card.
+ That space is already occupied. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 3 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 5 and is 57 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 55 and is 7 space(s) away from the safety zone.
+
+RED has drawn the 12 card.
+RED's pawn has moved 12 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 17 and is 45 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at location 55 and is 7 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+The deck has been shuffled!
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 8 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the 11 card.
+Your pawn is in the safety zone and is 1 spaces away from home.
+Piece 1 is at Start.
+Piece 2 is at location 17 and is 45 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 4 space(s) away from Home.
+
+YELLOW has drawn the 2 card.
+Your pawn is in the safety zone and is 2 spaces away from home.
+YELLOW has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 11 card.
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the 11 card.
+No pieces can be moved. You lose your turn.
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 17 and is 45 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 2 card.
+Too far of a move. You lose your turn
+RED has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is at location 17 and is 45 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 2 card.
+RED's pawn has moved 2 space(s).
+RED has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is at location 19 and is 43 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 1 card.
+RED has chosen piece 1. It has been moved out of the starting location.
+RED's pawn has moved 1 space(s).
+
+Piece 1 is at location 5 and is 57 space(s) away from the safety zone.
+Piece 2 is at location 19 and is 43 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at Start.
+
+GREEN has drawn the 2 card.
+Turn is lost.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 1 card.
+ That space is already occupied. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 3 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at location 5 and is 57 space(s) away from the safety zone.
+Piece 2 is at location 19 and is 43 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 7 card.
+RED's pawn has moved 7 space(s).
+
+Piece 1 is at location 5 and is 57 space(s) away from the safety zone.
+Piece 2 is at location 26 and is 36 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the SORRY card.
+GREEN's Piece 4 has been chosen to move out of start and has been swapped with red's Piece 1.
+red's Piece 1 has been sent home.
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 5 and is 42 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 1 card.
+BLUE has chosen piece 2. It has been moved out of the starting location.
+BLUE's pawn has moved 1 space(s).
+
+Piece 1 is at Home.
+Piece 2 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 26 and is 36 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at location 26 and is 36 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 5 and is 42 space(s) away from the safety zone.
+
+GREEN has drawn the 5 card.
+GREEN's pawn has moved 5 space(s).
+
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 10 and is 37 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is at location 20 and is 57 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 4 card.
+Your pawn is in the safety zone and is 4 spaces away from home.
+
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 26 and is 36 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 5 card.
+RED's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 31 and is 31 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 10 and is 37 space(s) away from the safety zone.
+
+GREEN has drawn the 2 card.
+Turn is lost.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 31 and is 31 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 5 card.
+RED's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 36 and is 26 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 10 and is 37 space(s) away from the safety zone.
+
+GREEN has drawn the 4 card.
+GREEN's pawn has moved -4 space(s).
+
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 6 and is 41 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 36 and is 26 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 12 card.
+RED's pawn has moved 12 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 48 and is 14 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 13 and is 34 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 6 and is 41 space(s) away from the safety zone.
+
+GREEN has drawn the 8 card.
+GREEN's pawn has moved 8 space(s).
+
+Piece 1 is at location 21 and is 26 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 6 and is 41 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 48 and is 14 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 8 card.
+RED's pawn has moved 8 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 56 and is 6 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at location 21 and is 26 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 6 and is 41 space(s) away from the safety zone.
+
+GREEN has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 21 and is 26 space(s) away from the safety zone.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 6 and is 41 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at Start.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 4 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 1 card.
+Your pawn is in the safety zone and is 3 spaces away from home.
+
+Piece 1 is at Home.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the SORRY card.
+RED's Piece 1 has been chosen to move out of start and has been swapped with green's Piece 1.
+green's Piece 1 has been sent home.
+Piece 1 is at location 21 and is 41 space(s) away from the safety zone.
+Piece 2 is at location 56 and is 6 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 6 and is 41 space(s) away from the safety zone.
+
+GREEN has drawn the 4 card.
+GREEN's pawn has moved -4 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 2 and is 45 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+YELLOW's Piece 1 has been chosen to move out of start and has been swapped with red's Piece 1.
+red's Piece 1 has been sent home.
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 56 and is 6 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at location 56 and is 6 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the 11 card.
+GREEN's pawn has moved 11 space(s).
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Start.
+Piece 4 is at location 13 and is 34 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 3 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 1 card.
+Your pawn is in the safety zone and is 2 spaces away from home.
+
+Piece 1 is at Home.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 56 and is 6 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at location 56 and is 6 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the SORRY card.
+GREEN's Piece 3 has been chosen to move out of start and has been swapped with red's Piece 2.
+red's Piece 2 has been sent home.
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 13 and is 34 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 1 card.
+Your pawn is in the safety zone and is 1 spaces away from home.
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+The deck has been shuffled!
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 13 and is 34 space(s) away from the safety zone.
+
+GREEN has drawn the 1 card.
+GREEN's pawn has moved 1 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 14 and is 33 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+A Sorry card cannot move a piece that is already out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 14 and is 33 space(s) away from the safety zone.
+
+GREEN has drawn the 2 card.
+GREEN's pawn has moved 2 space(s).
+GREEN has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 16 and is 31 space(s) away from the safety zone.
+
+GREEN has drawn the 11 card.
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 16 and is 31 space(s) away from the safety zone.
+
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the SORRY card.
+A Sorry card cannot move a piece that is already out of start. BLUE has lost their turn.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 16 and is 31 space(s) away from the safety zone.
+
+GREEN has drawn the 10 card.
+GREEN's pawn has moved 10 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 2 card.
+Too far of a move. You lose your turn
+BLUE has earned another turn!
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 1 card.
+You have moved pawn 2 into your home. Congrats!
+
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 56 and is 51 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 4 card.
+GREEN's pawn has moved -4 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 52 and is 55 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 2 space(s) away from Home.
+
+YELLOW has drawn the 1 card.
+Your pawn is in the safety zone and is 1 spaces away from home.
+
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 52 and is 55 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 3 card.
+GREEN's pawn has moved 3 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 55 and is 52 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+YELLOW has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the SORRY card.
+A Sorry card cannot move a piece that is already out of start. BLUE has lost their turn.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+RED has drawn the 1 card.
+You have moved pawn 4 into your home. Congrats!
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 55 and is 52 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 12 card.
+GREEN's pawn has moved 12 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 7 and is 40 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 21 and is 11 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+YELLOW has drawn the 8 card.
+YELLOW's pawn has moved 8 space(s).
+
+Piece 1 is at location 29 and is 3 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 10 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 8 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 7 and is 40 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 5 card.
+GREEN's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 12 and is 35 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at location 29 and is 3 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 12 card.
+No pieces can be moved. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 12 and is 35 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 5 card.
+GREEN's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 17 and is 30 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 29 and is 3 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is 1 space(s) away from Home.
+
+YELLOW has drawn the 1 card.
+You have moved pawn 4 into your home. Congrats!
+
+Piece 1 is at location 29 and is 3 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+
+You have drawn the 11 card.
+No pieces can be moved. You lose your turn.
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 17 and is 30 space(s) away from the safety zone.
+Piece 4 is at location 26 and is 21 space(s) away from the safety zone.
+
+GREEN has drawn the 8 card.
+GREEN's pawn has moved 8 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 17 and is 30 space(s) away from the safety zone.
+Piece 4 is at location 34 and is 13 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 29 and is 3 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 2 card.
+YELLOW's pawn has moved 2 space(s).
+YELLOW has earned another turn!
+
+Piece 1 is at location 31 and is 1 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 13 card.
+
+Piece 1 is at location 31 and is 1 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the SORRY card.
+A Sorry card cannot move a piece that is already out of start. BLUE has lost their turn.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at Start.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 2 card.
+RED has chosen piece 2. It has been moved out of the starting location.
+RED has earned another turn!
+
+The deck has been shuffled!
+Piece 1 is at Start.
+Piece 2 is at location 4 and is 58 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 7 card.
+RED's pawn has moved 7 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 11 and is 51 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+The deck has been shuffled!
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 17 and is 30 space(s) away from the safety zone.
+Piece 4 is at location 34 and is 13 space(s) away from the safety zone.
+
+GREEN has drawn the 7 card.
+GREEN's pawn has moved 7 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 24 and is 23 space(s) away from the safety zone.
+Piece 4 is at location 34 and is 13 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+A Sorry card cannot move a piece that is already out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 2 card.
+Too far of a move. You lose your turn
+BLUE has earned another turn!
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 11 and is 51 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 3 card.
+RED's pawn has moved 3 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 24 and is 23 space(s) away from the safety zone.
+Piece 4 is at location 34 and is 13 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is at location 31 and is 1 space(s) away from the safety zone.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 2 card.
+Your pawn is in the safety zone and is 4 spaces away from home.
+YELLOW has earned another turn!
+
+Piece 1 is 4 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is 4 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 14 and is 48 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 5 card.
+RED's pawn has moved 5 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 19 and is 43 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 24 and is 23 space(s) away from the safety zone.
+Piece 4 is at location 34 and is 13 space(s) away from the safety zone.
+
+GREEN has drawn the 7 card.
+GREEN's pawn has moved 7 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 24 and is 23 space(s) away from the safety zone.
+Piece 4 is at location 41 and is 6 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is 4 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 1 card.
+Your pawn is in the safety zone and is 3 spaces away from home.
+
+Piece 1 is 3 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 19 and is 43 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 3 card.
+RED's pawn has moved 3 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 22 and is 40 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 24 and is 23 space(s) away from the safety zone.
+Piece 4 is at location 41 and is 6 space(s) away from the safety zone.
+
+GREEN has drawn the 4 card.
+You cannot move a piece out of Safety Zone. You lose your turn.
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 24 and is 23 space(s) away from the safety zone.
+Piece 4 is at location 41 and is 6 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+A Sorry card cannot move a piece that is already out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 22 and is 40 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 12 card.
+RED's pawn has moved 12 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 34 and is 28 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 24 and is 23 space(s) away from the safety zone.
+Piece 4 is at location 41 and is 6 space(s) away from the safety zone.
+
+GREEN has drawn the 4 card.
+GREEN's pawn has moved -4 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 41 and is 6 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is 3 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 3 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+
+You have drawn the 11 card.
+Too far of a move. You lose your turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 34 and is 28 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 2 card.
+RED's pawn has moved 2 space(s).
+RED has earned another turn!
+
+Piece 1 is at Start.
+Piece 2 is at location 36 and is 26 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 3 card.
+RED's pawn has moved 3 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 39 and is 23 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 41 and is 6 space(s) away from the safety zone.
+
+GREEN has drawn the 3 card.
+GREEN's pawn has moved 3 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 44 and is 3 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is 3 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 1 card.
+Your pawn is in the safety zone and is 2 spaces away from home.
+
+Piece 1 is 2 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 39 and is 23 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 4 card.
+RED's pawn has moved -4 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 35 and is 27 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 44 and is 3 space(s) away from the safety zone.
+
+GREEN has drawn the 7 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 44 and is 3 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is 2 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 8 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 2 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 35 and is 27 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 10 card.
+RED's pawn has moved 10 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 45 and is 17 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 44 and is 3 space(s) away from the safety zone.
+
+GREEN has drawn the 5 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 44 and is 3 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+
+You have drawn the SORRY card.
+A Sorry card cannot move a piece that is already out of start. YELLOW has lost their turn.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 3 card.
+Too far of a move. You lose your turn
+
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is RED players turn
+Piece 1 is at Start.
+Piece 2 is at location 45 and is 17 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+RED has drawn the 7 card.
+RED's pawn has moved 7 space(s).
+
+Piece 1 is at Start.
+Piece 2 is at location 52 and is 10 space(s) away from the safety zone.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is GREEN players turn
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 20 and is 27 space(s) away from the safety zone.
+Piece 4 is at location 44 and is 3 space(s) away from the safety zone.
+
+GREEN has drawn the 10 card.
+GREEN's pawn has moved 10 space(s).
+
+Piece 1 is at Start.
+Piece 2 is 2 space(s) away from Home.
+Piece 3 is at location 30 and is 17 space(s) away from the safety zone.
+Piece 4 is at location 44 and is 3 space(s) away from the safety zone.
+
+___________________________________________________________________________________________________
+It is YELLOW players turn
+Piece 1 is 2 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+YELLOW has drawn the 12 card.
+Too far of a move. You lose your turn
+
+Piece 1 is 2 space(s) away from Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+___________________________________________________________________________________________________
+It is BLUE players turn
+Piece 1 is at Home.
+Piece 2 is 1 space(s) away from Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+
+BLUE has drawn the 1 card.
+You have moved pawn 2 into your home. Congrats!
+
+Piece 1 is at Home.
+Piece 2 is at Home.
+Piece 3 is at Home.
+Piece 4 is at Home.
+BLUE has won the game of Sorry!
+
+Process finished with exit code 0
