@@ -13,7 +13,7 @@ Contributions:
 Ethan La Rue: Responsible for implementing the deck class which housed and managed all of the cards and also the shuffle feature that used the deck class and returned a shuffled version of it. He was also responsible for the majority of the write-up to be submitted. 
 Robert Gerardi: Implemented the classes, structure and implementation for the computer player movement, pawn and player initialization, created the board and boardspace classes. Edited the writeup to reflect new changes and update for consistency. Although most of the commits were by me, a majority of the time, we were working on them together using group code on Clion. I created the README.txt.
 Niraj Patel: Implemented the Player and Pawn classes, structure, and movement for the human player. Also, created all of the HumanPlayer class, including the structure and inheritance of the Player class. Created the prompting for the human player and developed failsafes for user interaction. Edited the writeup to show the necessary requirements that were needed for the project. 
-Sahil Patel: Implemented the turn-based structure for the Sorry Board, which includes the main function. Created how the end of the game will function, along with some of the polymorphism aspects with the implementation of virtual functions. He was also responsible for the introduction and overview of the report.
+
 
 ***Although robert had most of the pushes to git, we worked on the project together in person and over clion collaboration tool
 
